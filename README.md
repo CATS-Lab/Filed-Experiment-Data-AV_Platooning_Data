@@ -1,4 +1,4 @@
-# AV-platooning-data
+# Filed experiment data-AV_platooning_data
 Platooning data for reserach
 
 Shi, X. and Li, X., 2021. Empirical Study on Car Following Characteristics of Automated Vehicles with Different Headway Settings. Transportation Research Part C: Emerging Technologies. https://doi.org/10.1016/j.trc.2021.103134
